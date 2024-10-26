@@ -1,6 +1,6 @@
 public class B {
-    public int B1;
-    public float B2;
+    private int B1;
+    private float B2;
 
     public int getB1() {
         return B1;
