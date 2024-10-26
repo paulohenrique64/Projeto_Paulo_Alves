@@ -25,4 +25,8 @@ public class D {
     public int MD2() {
         return D2 * D2;
     }
+
+    public void MD4() {
+        System.out.println("MD4");
+    } 
 }
